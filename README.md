@@ -11,3 +11,18 @@ A simple notes extension, right in your chrome browser! Easily copy around a few
 Chrome Notes remembers your notes and mode, even after closing chrome or restarting your computer!
 
 <img src="https://github.com/sanjayengineer121/Notes-Extension/blob/main/logo.png">
+
+* Beautiful Ui
+* Delete alert support
+* very simple 
+* no need to open application
+* just browsing and open icon of extension and easy to use
+* No limit of notes
+* private storage
+* no cloud still saved data
+* best of all
+* free of cost
+* see below of ui
+<p>just download and unzip and open chrome browser and go to extension and enable developer option and go load extension and load manifest.json and you can use </p>
+
+<img src="https://github.com/sanjayengineer121/Notes-Extension/blob/main/js/Screenshot%20(263).png">
