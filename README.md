@@ -23,6 +23,6 @@ Chrome Notes remembers your notes and mode, even after closing chrome or restart
 * best of all
 * free of cost
 * see below of ui
-<p>just download and unzip and open chrome browser and go to extension and enable developer option and go load extension and load manifest.json and you can use </p>
+<p>just download and unzip and open chrome browser and go to extension and enable developer option and go load unpacked extension pholder and auto loaded manifest.json and you can use it </p>
 
 <img src="https://github.com/sanjayengineer121/Notes-Extension/blob/main/js/Screenshot%20(263).png">
